@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">GeekBrains_Lesson1</string>
+    <string name="welcome_string">Добро пожаловать в умный дом!</string>
+    <string name="edit_text_hint_string">Введите название умного дома</string>
+    <string name="save_string">Сохранить</string>
+    <string name="switch_light">Включить свет</string>
+    <string name="set_alarm">Установить напоминание</string>
+    <string name="heating_on_string">Отопление включено</string>
+    <string name="heating_off_string">Отопление выключено</string>
+    <string name="text_view1">Заполните резюме</string>
+    <string name="FIO">Фамилия Имя Отчество</string>
+    <string name="birthday">Дата рождения</string>
+    <string name="phone">Номер телефона</string>
+    <string name="email">Эл. почта</string>
+    <string name="position">Желаемая должность</string>
+    <string name="salary">Зарплата (руб.)</string>
+    <string name="github">GitHub</string>
+    <string name="description">Обо мне</string>
+    <string name="back">Назад</string>
 </resources>
